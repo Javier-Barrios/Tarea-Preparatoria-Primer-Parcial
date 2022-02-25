@@ -1,0 +1,18 @@
+Numero que ingreso: 4
+Serie: 10.0
+-------------------------------
+Numero que ingreso: 5
+Serie: 15.0
+-------------------------------
+Numero que ingreso: 2
+Serie: 3.0
+-------------------------------
+Numero que ingreso: 10
+Serie: 55.0
+-------------------------------
+Numero que ingreso: 5
+Serie: 15.0
+-------------------------------
+Numero que ingreso: 3
+Serie: 6.0
+-------------------------------

@@ -1,0 +1,14 @@
+
+----------------------------------
+Vocales de la palabra: madrid
+----------------------------------
+Vocales de la palabra: valencia
+----------------------------------
+Vocales de la palabra: canada
+----------------------------------
+Vocales de la palabra: guatemala
+La vocal aaparece: 3veces
+La vocal eaparece: 1veces
+La vocal iaparece: 0veces
+La vocal oaparece: 0veces
+La vocal uaparece: 1veces

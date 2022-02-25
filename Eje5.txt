@@ -1,0 +1,20 @@
+Primer Numero: 9
+Segundo Numero: 3
+Numeros de 2 en 2: [9, 8, 7, 6, 5, 4, 3]
+-----------------------------
+Primer Numero: 3
+Segundo Numero: 9
+De mayor a menor: [9, 8, 7, 6, 5, 4, 3]
+-----------------------------
+Primer Numero: 9
+Segundo Numero: 9
+Sus numeros son Iguales
+-----------------------------
+Primer Numero: 9
+Segundo Numero: 3
+Numeros de 2 en 2: [9, 8, 7, 6, 5, 4, 3]
+-----------------------------
+Primer Numero: 3
+Segundo Numero: 9
+De mayor a menor: [9, 8, 7, 6, 5, 4, 3]
+-----------------------------

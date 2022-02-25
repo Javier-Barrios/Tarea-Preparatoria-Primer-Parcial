@@ -1,0 +1,14 @@
+Modelo del Taxi: 2013
+Kilometraje del Taxi: 7000
+Situacion del Taxi: Optimas Condiciones
+Modelo del Taxi: 2005
+Kilometraje del Taxi: 22000
+Situacion del Taxi: Necesita Renovarse
+-------------------------------
+Modelo del Taxi: 2013
+Kilometraje del Taxi: 6000
+Situacion del Taxi: Optimas Condiciones
+-------------------------------
+Numero que ingreso: 3
+Serie: 6.0
+-------------------------------

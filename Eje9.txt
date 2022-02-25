@@ -1,0 +1,5 @@
+Figura= Circulo
+Area= 78.54
+Figura= Triangulo
+Area= 12.0
+------------------------------

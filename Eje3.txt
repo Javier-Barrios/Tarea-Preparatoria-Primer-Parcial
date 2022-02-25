@@ -1,0 +1,11 @@
+
+Palabra: buenas
+Numero de vocales: 3
+Palabra: buenas
+Numero de vocales: 3
+Palabra: Como
+Numero de vocales: 2
+Palabra: hola
+Numero de vocales: 2
+Palabra: & "C:/Users/Javier Barrios/AppData/Local/Programs/Python/Python39/python.exe" "c:/Users/Javier Barrios/Documents/U/2022/Primer Semestre/Proyectos de Computacion/Preparatoria_1P/Ejercicio#6.py"
+Numero de vocales: 57
